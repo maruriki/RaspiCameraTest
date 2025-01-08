@@ -1,2 +1,2 @@
 # RaspiCameraTest
-RaspberryPiCamera用テスト
+RaspberryPiでcameraを使うとき，テストするために使うツール
